@@ -54,6 +54,15 @@
 			path = Resources;
 			sourceTree = "<group>";
 		};
+		0F106FE229A8852700455059 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0F6D516629A87F5E008505C0 /* LaunchScreen.storyboard */,
+				0F6D516929A87F5E008505C0 /* Info.plist */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
 		0F6D514F29A87F5D008505C0 = {
 			isa = PBXGroup;
 			children = (
@@ -77,8 +86,7 @@
 				0F6D515F29A87F5D008505C0 /* ViewController.swift */,
 				0F6D516129A87F5D008505C0 /* Main.storyboard */,
 				0F106FA129A8833100455059 /* Resources */,
-				0F6D516629A87F5E008505C0 /* LaunchScreen.storyboard */,
-				0F6D516929A87F5E008505C0 /* Info.plist */,
+				0F106FE229A8852700455059 /* Supporting Files */,
 			);
 			path = "Lecture 28";
 			sourceTree = "<group>";
@@ -304,7 +312,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Lecture 28/Info.plist";
+				INFOPLIST_FILE = "Lecture 28/Supporting Files/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -331,7 +339,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Lecture 28/Info.plist";
+				INFOPLIST_FILE = "Lecture 28/Supporting Files/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
