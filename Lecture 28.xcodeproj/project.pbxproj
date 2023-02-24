@@ -46,6 +46,14 @@
 			path = Application;
 			sourceTree = "<group>";
 		};
+		0F106FA129A8833100455059 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				0F6D516429A87F5E008505C0 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		0F6D514F29A87F5D008505C0 = {
 			isa = PBXGroup;
 			children = (
@@ -68,7 +76,7 @@
 				0F106FA029A8825700455059 /* Application */,
 				0F6D515F29A87F5D008505C0 /* ViewController.swift */,
 				0F6D516129A87F5D008505C0 /* Main.storyboard */,
-				0F6D516429A87F5E008505C0 /* Assets.xcassets */,
+				0F106FA129A8833100455059 /* Resources */,
 				0F6D516629A87F5E008505C0 /* LaunchScreen.storyboard */,
 				0F6D516929A87F5E008505C0 /* Info.plist */,
 			);
